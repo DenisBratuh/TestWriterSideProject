@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="test"
+                 name="App-Mediator"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="XMLTopic.topic">
+        <toc-element topic="IntroTest.md"/>
+        <toc-element topic="Intro.topic"/>
+    </toc-element>
+</instance-profile>
